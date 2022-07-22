@@ -1,0 +1,54 @@
+
+    #content{
+      width: 70%;
+      margin-top: 50px;
+      margin-left: 100px;
+    }
+
+    thead{
+      background:#84B899;
+    }
+    tbody{
+      background: 
+    }
+
+    #btn_minus{
+      height: 28px;
+      border-radius: 5px 0 0 5px;
+      margin-right: 0px !important;
+    }
+
+    #btn_plus{
+      height: 28px;
+      border-radius: 0 5px 5px 0;
+      margin-left: 0px !important;
+    }
+
+    .title{
+      padding-top: 25px !important;
+    }
+    .quantity_area{
+      padding-top: 15px;
+    }
+
+    .quantity_area input{
+      margin-top: 1px !important;
+      width: 50px !important;
+      height: 35px;
+      text-align: center;
+      font-weight: bold;
+      font-size: 18px;
+    }
+
+    .quantity_area button{
+      height: 35px !important;
+      width: 35px !important;
+    }
+
+    .fas:hover{
+      cursor: pointer;
+    }
+ 
+  .no,.id,.title , .price , .total , .action{
+    padding-top: 30px!important;
+ }
